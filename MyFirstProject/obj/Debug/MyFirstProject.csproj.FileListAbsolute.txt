@@ -1,0 +1,9 @@
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.Cache
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
