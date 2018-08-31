@@ -7,3 +7,12 @@ c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstPr
 c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.Cache
 c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
 c:\users\nshehzad\documents\visual studio 2015\Projects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\InitialClone\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\InitialClone\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\InitialClone\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.Cache
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\InitialClone\MyFirstProject\obj\Debug\MyFirstProject.pdb
